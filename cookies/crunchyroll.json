@@ -3,7 +3,10 @@
   "data": [
     {
       "provider": "techedubyte",
-      "uri": ["https://www.link1.co/", "https://www.link2.co/"]
+      "uri": [
+        "https://www.link1.co/",
+        "https://www.link2.co/"
+      ]
     }
   ],
   "update_time": "12"
