@@ -1,13 +1,15 @@
 {
   "website": "https://www.crunchyroll.com/",
+  "cookieName": "CrunchyRoll",
   "data": [
     {
       "provider": "techedubyte",
+      "providerCode": "TEB",
+      "updateTime": "12",
       "uri": [
         "https://www.link1.co/",
         "https://www.link2.co/"
       ]
     }
-  ],
-  "update_time": "12"
+  ]
 }
