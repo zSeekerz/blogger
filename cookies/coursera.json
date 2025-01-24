@@ -1,1 +1,19 @@
+{
+  "website": "https://www.coursera.org/",
+  "title": "Coursera Premium Account Cookies",
+  "imageId": "AgACAgQAAyEGAASQnDvKAAIBf2eTr_xEKBiLzXaUbLlgFmVcFXwrAAK3wTEbWY6hUOKsk4tizvVtAAgBAAMCAAN5AAceBA",
+  "cookieName": "Coursera",
+  "data": [
+    {
+      "providerHash": "f4186ccc43ff9a2fe54a2fc8b98aa3f84f67ff35",
+      "providerCode": "TEB",
+      "updateTime": "12",
+      "uri": [
+        "https://www.link1.co/",
+        "https://www.link2.co/"
+      ]
+    }
+  ]
+}
+
 
