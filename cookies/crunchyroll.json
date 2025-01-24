@@ -1,9 +1,11 @@
 {
   "website": "https://www.crunchyroll.com/",
-  "cookieName": "CrunchyRoll",
+  "title": "Crunchyroll Premium Account Cookies",
+  "imageId": "AgACAgQAAyEGAASQnDvKAAIBd2eTrwo3j8t9CLckxtUQiuyhxEySAAKdwTEbWY6hUO1nrNuvxyaBAAgBAAMCAAN5AAceBA",
+  "cookieName": "Crunchyroll",
   "data": [
     {
-      "providerHostHash": "f4186ccc43ff9a2fe54a2fc8b98aa3f84f67ff35",
+      "providerHash": "f4186ccc43ff9a2fe54a2fc8b98aa3f84f67ff35",
       "providerCode": "TEB",
       "updateTime": "12",
       "uri": [
