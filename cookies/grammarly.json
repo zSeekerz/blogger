@@ -1,1 +1,20 @@
+{
+  "website": "https://app.grammarly.com/",
+  "title": "Grammarly Premium Account Cookies",
+  "imageId": "AgACAgQAAyEGAASQnDvKAAIBfWeTr_zW1JC_WgSLoys4e23tsZ5wAAKqwTEbWY6hUAQ7D4tYKFfKAAgBAAMCAAN5AAceBA",
+  "cookieName": "Grammarly",
+  "data": [
+    {
+      "providerHash": "f4186ccc43ff9a2fe54a2fc8b98aa3f84f67ff35",
+      "providerCode": "TEB",
+      "updateTime": "12",
+      "uri": [
+        "https://www.link1.co/",
+        "https://www.link2.co/"
+      ]
+    }
+  ]
+}
+
+
 
