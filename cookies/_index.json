@@ -1,29 +1,16 @@
 {
-  "providers": {
-    "f4186ccc43ff9a2fe54a2fc8b98aa3f84f67ff35": {
+  "website": "https://canva.com/",
+  "title": "Canva Premium Account Cookies",
+  "imageId": "AgACAgQAAyEGAASQnDvKAAIBfGeTr_wqgdDdp2rN8UjPd3PUmv1CAAKlwTEbWY6hUMJwpFH9FbAPAAgBAAMCAAN5AAceBA",
+  "cookieName": "Canva",
+  "data": [
+    {
+      "providerHash": "f4186ccc43ff9a2fe54a2fc8b98aa3f84f67ff35",
       "providerCode": "TEB",
-      "cookies": {
-        "AgADo7IxG9kmGVQ": {
-          "providerPath": "canva-cookies",
-          "storagePath": "canva.json"
-        },
-        "AgADIKsxG41CKVY": {
-          "providerPath": "crunchyroll-cookies",
-          "storagePath": "crunchyroll.json"
-        },
-        "AgADg8IxGxSF-FU": {
-          "providerPath": "grammarly-cookies",
-          "storagePath": "grammarly.json"
-        },
-        "AgAD3L4xG2nXuFQ": {
-          "providerPath": "prime-video-cookies",
-          "storagePath": "primevideo.json"
-        },
-        "AgADvbIxGwABwzBW": {
-          "providerPath": "coursera-cookies",
-          "storagePath": "coursera.json"
-        }
-      }
+      "updateTime": "12",
+      "uri": [
+        "https://hastebin.com/share/uqipujajow"
+      ]
     }
-  }
+  ]
 }
