@@ -1,7 +1,8 @@
 {
   "AgADo7IxG9kmGVQ": {
-    "image_uri": "https://sadesign.ai/pictures/picfullsizes/2024/11/27/gmi1732697134.jpg",
-    "title": "Canva Pro Cookies",
-    "path": "canva.json"
+    "imageLink": "https://sadesign.ai/pictures/picfullsizes/2024/11/27/gmi1732697134.jpg",
+    "title": "Canva Pro Account Cookies",
+    "providerPath": "canva-cookies",
+    "storagePath": "canva.json"
   }
 }
