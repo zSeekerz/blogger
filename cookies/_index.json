@@ -1,8 +1,37 @@
 {
-  "AgADo7IxG9kmGVQ": {
-    "imageLink": "https://sadesign.ai/pictures/picfullsizes/2024/11/27/gmi1732697134.jpg",
-    "title": "Canva Pro Account Cookies",
-    "providerPath": "canva-cookies",
-    "storagePath": "canva.json"
+  "f4186ccc43ff9a2fe54a2fc8b98aa3f84f67ff35": {
+    "providerCode": "TEB",
+    "cookies": {
+      "AgADo7IxG9kmGVQ": {
+        "imageId": "AgADpcExG1mOoVA",
+        "title": "Canva Pro Account Cookies",
+        "providerPath": "canva-cookies",
+        "storagePath": "canva.json"
+      },
+      "AgADIKsxG41CKVY": {
+        "imageId": "AgADncExG1mOoVA",
+        "title": "Crunchyroll Premium Account Cookies",
+        "providerPath": "crunchyroll-cookies",
+        "storagePath": "crunchyroll.json"
+      },
+      "AgADg8IxGxSF-FU": {
+        "imageId": "AgADqsExG1mOoVA",
+        "title": "Grammarly Premium Account Cookies",
+        "providerPath": "grammarly-cookies",
+        "storagePath": "grammarly.json"
+      },
+      "AgAD3L4xG2nXuFQ": {
+        "imageId": "AgADssExG1mOoVA",
+        "title": "Amazon Prime Video Premium Account Cookies",
+        "providerPath": "prime-video-cookies",
+        "storagePath": "primevideo.json"
+      },
+      "AgADvbIxGwABwzBW": {
+        "imageId": "AgADt8ExG1mOoVA",
+        "title": "Coursera Premium Account Cookies",
+        "providerPath": "coursera-cookies",
+        "storagePath": "coursera.json"
+      }
+    }
   }
 }
