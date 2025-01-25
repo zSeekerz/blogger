@@ -24,6 +24,31 @@
           "storagePath": "coursera.json"
         }
       }
+    },
+    "b14198a6b915fb0713ad8b752f93e8f1c3cf39e6": {
+      "providerCode": "PF",
+      "cookies": {
+        "AgADY7UxG-jB1VI": {
+          "providerPath": "canva-cookies",
+          "storagePath": "canva.json"
+        },
+        "AgADGbYxG1zYrVA": {
+          "providerPath": "crunchyroll-cookies",
+          "storagePath": "crunchyroll.json"
+        },
+        "AgADYbUxG732zVI": {
+          "providerPath": "grammarly-cookies",
+          "storagePath": "grammarly.json"
+        },
+        "AgAD1LUxG7tjrFA": {
+          "providerPath": "prime-video-cookies",
+          "storagePath": "primevideo.json"
+        },
+        "AgADCbYxG4rVrVA": {
+          "providerPath": "coursera-cookies",
+          "storagePath": "coursera.json"
+        }
+      }
     }
   }
 }
