@@ -1,17 +1,18 @@
 {
+  "isActive": true,
   "website": "https://www.crunchyroll.com/",
   "title": "Crunchyroll Premium Account Cookies",
-  "imageId": "AgACAgQAAyEGAASQnDvKAAIBd2eTrwo3j8t9CLckxtUQiuyhxEySAAKdwTEbWY6hUO1nrNuvxyaBAAgBAAMCAAN5AAceBA",
+  "imageLink": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000042000/e965921d2670a197008fe9403e50aaa0b150eabcaab4ce8b0c860d75ba4d1ee6",
   "cookieName": "Crunchyroll",
+  "providers": [
+    "f4186ccc43ff9a2fe54a2fc8b98aa3f84f67ff35"
+  ],
   "data": [
     {
       "providerHash": "f4186ccc43ff9a2fe54a2fc8b98aa3f84f67ff35",
       "providerCode": "TEB",
       "updateTime": "12",
-      "uri": [
-        "https://www.link1.co/",
-        "https://www.link2.co/"
-      ]
+      "uri": []
     }
   ]
 }
