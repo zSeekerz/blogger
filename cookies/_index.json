@@ -1,54 +1,56 @@
 {
   "providers": {
-    "f4186ccc43ff9a2fe54a2fc8b98aa3f84f67ff35": {
-      "providerCode": "TEB",
-      "cookies": {
-        "AgADo7IxG9kmGVQ": {
-          "providerPath": "canva-cookies",
-          "storagePath": "canva.json"
-        },
-        "AgADIKsxG41CKVY": {
-          "providerPath": "crunchyroll-cookies",
-          "storagePath": "crunchyroll.json"
-        },
-        "AgADg8IxGxSF-FU": {
-          "providerPath": "grammarly-cookies",
-          "storagePath": "grammarly.json"
-        },
-        "AgAD3L4xG2nXuFQ": {
-          "providerPath": "prime-video-cookies",
-          "storagePath": "primevideo.json"
-        },
-        "AgADvbIxGwABwzBW": {
-          "providerPath": "coursera-cookies",
-          "storagePath": "coursera.json"
-        }
+    "df28c2eb4b992771f0cc64a2fa424dafc0108967bb59c468f0052498db137195": {
+      "AgADMKsxGwt1yVQ": {
+        "path": "skillshare-cookies",
+        "website_name": "skillShare"
+      },
+      "AgADg8IxGxSF-FU": {
+        "path": "grammarly-cookies",
+        "website_name": "grammarly"
+      },
+      "AgAD3L4xG2nXuFQ": {
+        "path": "prime-video-cookies",
+        "website_name": "primeVideo"
+      },
+      "AgADvbIxGwABwzBW": {
+        "path": "coursera-cookies",
+        "website_name": "coursera"
+      },
+      "AgADIKsxG41CKVY": {
+        "path": "crunchyroll-cookies",
+        "website_name": "crunchyRoll"
+      },
+      "AgADo7IxG9kmGVQ": {
+        "path": "canva-cookies",
+        "website_name": "canva"
       }
+    }
+  },
+  "websites": {
+    "skillShare": {
+      "imageLink": "https://whop.com/blog/content/images/2024/05/What-is-Skillshare-and-How-Do-You-Use-It-2024-Review.webp",
+      "uri": "https://skillshare.com/"
     },
-    "b14198a6b915fb0713ad8b752f93e8f1c3cf39e6": {
-      "providerCode": "PF",
-      "cookies": {
-        "AgADY7UxG-jB1VI": {
-          "providerPath": "canva-cookies",
-          "storagePath": "canva.json"
-        },
-        "AgADGbYxG1zYrVA": {
-          "providerPath": "crunchyroll-cookies",
-          "storagePath": "crunchyroll.json"
-        },
-        "AgADYbUxG732zVI": {
-          "providerPath": "grammarly-cookies",
-          "storagePath": "grammarly.json"
-        },
-        "AgAD1LUxG7tjrFA": {
-          "providerPath": "prime-video-cookies",
-          "storagePath": "primevideo.json"
-        },
-        "AgADCbYxG4rVrVA": {
-          "providerPath": "coursera-cookies",
-          "storagePath": "coursera.json"
-        }
-      }
+    "primeVideo": {
+      "imageLink": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/prime-video.jpg",
+      "uri": "https://www.primevideo.com/"
+    },
+    "grammarly": {
+      "imageLink": "https://contenthub-static.grammarly.com/blog/wp-content/uploads/2021/11/grammarly-desktop-announcement.jpeg",
+      "uri": "http://app.grammarly.com/"
+    },
+    "coursera": {
+      "imageLink": "https://i.insider.com/6245efbb2d38730018f4c814?width=1200&format=jpeg",
+      "uri": "https://www.coursera.org/"
+    },
+    "crunchyRoll": {
+      "imageLink": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000042000/e965921d2670a197008fe9403e50aaa0b150eabcaab4ce8b0c860d75ba4d1ee6",
+      "uri": "https://www.crunchyroll.com/"
+    },
+    "canva": {
+      "imageLink": "https://sadesign.ai/pictures/picfullsizes/2024/11/27/gmi1732697134.jpg",
+      "uri": "https://canva.com/"
     }
   }
 }
