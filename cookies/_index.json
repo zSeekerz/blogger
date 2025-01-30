@@ -1,6 +1,42 @@
 {
+  "index": {
+    "df28c2eb4b992771f0cc64a2fa424dafc0108967bb59c468f0052498db137195": {
+      "source": "Telegram",
+      "name": "TEB - Main Channel"
+    },
+    "235e87873bba5d7f0493308869a89af36a6d3a2c8cb5d589214882386e17a3a6": {
+      "source": "Telegram",
+      "name": "TEB - Backup Channel"
+    }
+  },
   "providers": {
     "df28c2eb4b992771f0cc64a2fa424dafc0108967bb59c468f0052498db137195": {
+      "AgADMKsxGwt1yVQ": {
+        "path": "skillshare-cookies",
+        "website_name": "skillShare"
+      },
+      "AgADg8IxGxSF-FU": {
+        "path": "grammarly-cookies",
+        "website_name": "grammarly"
+      },
+      "AgAD3L4xG2nXuFQ": {
+        "path": "prime-video-cookies",
+        "website_name": "primeVideo"
+      },
+      "AgADvbIxGwABwzBW": {
+        "path": "coursera-cookies",
+        "website_name": "coursera"
+      },
+      "AgADIKsxG41CKVY": {
+        "path": "crunchyroll-cookies",
+        "website_name": "crunchyRoll"
+      },
+      "AgADo7IxG9kmGVQ": {
+        "path": "canva-cookies",
+        "website_name": "canva"
+      }
+    },
+    "235e87873bba5d7f0493308869a89af36a6d3a2c8cb5d589214882386e17a3a6": {
       "AgADMKsxGwt1yVQ": {
         "path": "skillshare-cookies",
         "website_name": "skillShare"
